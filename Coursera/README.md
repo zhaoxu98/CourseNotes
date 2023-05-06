@@ -14,20 +14,20 @@ This repo contains part of my work for [Coursera][l2] Courses. *(USNews: Courser
 
 ![](Certificate/DNN1.jpg)
 
-  - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/zhaoxu98/CourseNotes/blob/main/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
-  - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/zhaoxu98/CourseNotes/blob/main/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
-  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶](https://github.com/zhaoxu98/CourseNotes/blob/main/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
-  - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/zhaoxu98/CourseNotes/blob/main/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
+  - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+  - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Planar_data_classification_with_one_hidden_layer.ipynb)
+  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+  - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
 ![](Certificate/DNN2.jpg)
 
-  - [Week 1 - PA 1 - Initialization](https://github.com/zhaoxu98/CourseNotes/blob/main/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
-  - [Week 1 - PA 2 - Regularization](https://github.com/zhaoxu98/CourseNotes/blob/main/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
-  - [Week 1 - PA 3 - Gradient Checking](https://github.com/zhaoxu98/CourseNotes/blob/main/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
-  - [Week 2 - PA 4 - Optimization Methods](https://github.com/zhaoxu98/CourseNotes/blob/main/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
-  - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/zhaoxu98/CourseNotes/blob/main/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
+  - [Week 1 - PA 1 - Initialization](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
+  - [Week 1 - PA 2 - Regularization](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
+  - [Week 1 - PA 3 - Gradient Checking](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
+  - [Week 2 - PA 4 - Optimization Methods](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
+  - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 - Course 3: Structuring Machine Learning Projects
 
