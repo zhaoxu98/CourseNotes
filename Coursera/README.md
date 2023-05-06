@@ -10,6 +10,8 @@ This repo contains part of my work for [Coursera][l2] Courses. *(USNews: Courser
 
 ### Deep Learning Specialization
 
+[Notes](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Notes/DNN)
+
 - Course 1: Neural Networks and Deep Learning
 
 ![](Certificate/DNN1.jpg)
@@ -30,6 +32,8 @@ This repo contains part of my work for [Coursera][l2] Courses. *(USNews: Courser
   - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 - Course 3: Structuring Machine Learning Projects
+
+![](Certificate/DNN3.jpg)
 
   - There is no PA for this course. But this course comes with very interesting case study quizzes.
 
