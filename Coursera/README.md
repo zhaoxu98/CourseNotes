@@ -25,11 +25,11 @@ This repo contains part of my work for [Coursera][l2] Courses. *(USNews: Courser
 
 ![](Certificate/DNN2.jpg)
 
-  - [Week 1 - PA 1 - Initialization](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
-  - [Week 1 - PA 2 - Regularization](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
-  - [Week 1 - PA 3 - Gradient Checking](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
-  - [Week 2 - PA 4 - Optimization Methods](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
-  - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
+  - [Week 1 - PA 1 - Initialization](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
+  - [Week 1 - PA 2 - Regularization](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization.ipynb)
+  - [Week 1 - PA 3 - Gradient Checking](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient_Checking.ipynb)
+  - [Week 2 - PA 4 - Optimization Methods](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization_methods.ipynb)
+  - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/zhaoxu98/CourseNotes/blob/main/Coursera/Deep%20Learning%20Specialization/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow_introduction.ipynb)
 
 - Course 3: Structuring Machine Learning Projects
 
